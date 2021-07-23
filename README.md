@@ -16,6 +16,14 @@ pip install .
 #eventually: pip install conv_curry_recommender
 ```
 
+alternatively:
+
+```bash
+pip install github.com:pawlodkowski/conv_curry_recommender.git
+
+#I think this works out of the box; but need to verify
+```
+
 Maybe also create a new virtual environment with Anaconda.
 
 ### OPTION B:
